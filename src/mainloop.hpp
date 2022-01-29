@@ -8,7 +8,7 @@ namespace mainloop{
                 {
                     int option;
 
-                    std::cout<<"Geben Sie eine Zahl zwischen 0 und 4 ein!"<<std::endl;
+                    std::cout<<"1: Add 0: Quit!"<<std::endl;
                     std::cin>>option;
 
                     switch(option){
